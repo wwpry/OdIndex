@@ -1,0 +1,7 @@
+{
+  "name": "Odindex",
+  "description": "Deploy Odindex to heroku",
+  "website": "https://github.com/wwpry/OdIndex",
+  "repository": "https://github.com/wwpry/OdIndex",
+  "success_url": "/"
+}
