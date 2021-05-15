@@ -9,12 +9,12 @@ set_time_limit(60);
 error_reporting(E_ALL & ~E_NOTICE & ~E_WARNING);
 date_default_timezone_set("Asia/Shanghai");
 $config = array(
-	"refresh_token" => "",
-	"client_id" => "",
-	"client_secret" => "",
+	"refresh_token" => "0.AVYABRNJBQ4o6UqhtLpQlzcOWk2x9FtE4ANGvCvLuJKa14dWANk.AgABAAAAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P-76UxBKUpzf5qNG88g9PzUrSDikv0VXa_eRD0SWd5p54qRSAaAmhFdpmUfJ6nNAUOxUYlEts5uGTIt9R44hRoU2Ysoq6yE6HEV7D-p98FHhVDYa5jCRadFOPg8lA-1p8ReRpxdl9yH6fh97n6iIH9cpzWFQ30qQ26yRqKY1NBraq_9FkPWjOaLmoM6ZIxX83UwfmkFSzsIbobhCHbkvr5aWouya2guJ-_zx-NMUQdV3SaslnfnFQQjaE2UihCjo3iI6InWtk8iubaa6WUopT-4dQAIZ3RZ0qiR1qkcMj1fHUHutDBURY0w4wHBvunRUp96CPO5BroiFL4KHLm3lPZEBOqR162WcZYOs5OBGxM8dwQmVB5v383qDBbA4z0t_Ms9RPTD17AHNScyXcs7-MqZ8H5_PZlylxoKAjWdk8CK5Q0nC-ebTJPOZGZ4rB_5cVuO7eft21PBXco2BpQGPq_99RJ96nCW7-UiaKGsv8AeyKu0CAypTaCEfjbKUpVY_MqjVLnIr5olpLS2luGWR3_lgVLhfKh8bP26tV31_T7dMgyjHOy6V7mzvHP5QFfd4Qc66-1m1o9ugA3GVY24CE1G4KYxchfVa1Osx4Y40yIhK-Nyrq1TNzFU7kUA80Cju29-3_mwxSOe3jDyY9nJRT7uC_h4LL1AtJ-d4H2sDrtz9Tj_-kR3iYA7qR7xn8dKCYtR0MyHyDio5qTavbPE0a-dFVjx9iUsaXT9by5mFycgMdMv0km9Y1H_IF_f131MlbajKqA4a3A81OugsPwsilC5JZxo-8pOPwqj1FhGOW83c7x0weEwIl6gayV8tdZmKLYWpRtfvmHC7JajbkJpmS2GRnfJljLtnimLmQkwf3OmYK1zvV8mjXOF0q6Y1ZHr8o7tZCs4ttf3z--n9R3J_6kBGVlPT3fleqsO2YbDf4jBd6M",
+	"client_id" => "5bf4b14d-e044-4603-bc2b-cbb8929ad787",
+	"client_secret" => "-S43gfpDfTq7I8~z9_.JD6MYg9KLgf8q5G",
 	"api_url" => "https://graph.microsoft.com/v1.0",
 	"oauth_url" => "https://login.microsoftonline.com/common/oauth2/v2.0",
-	"redirect_uri" => "http://localhost",
+	"redirect_uri" => "https://scfonedrive.github.io/",
 	'base' => '/',
 	'datapath' => 'data',
 	'rewrite' => false,
